@@ -1,7 +1,7 @@
-Role Name
+lighthouse-role
 =========
 
-A brief description of the role goes here.
+Роль устанавливает ПО Nginx и Lighthouse
 
 Requirements
 ------------
@@ -30,9 +30,9 @@ Including an example of how to use your role (for instance, with variables passe
 License
 -------
 
-BSD
+Free
 
 Author Information
 ------------------
 
-Stepanov Sergey
+Stepanov Sergey for Netology
